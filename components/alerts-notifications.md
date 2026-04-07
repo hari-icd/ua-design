@@ -140,4 +140,4 @@ Full notification center listing recent events. Supports empty state and action 
 ## Related
 - [Buttons](./button.md)
 - [Loading Indicator](./loading-indicator.md)
-- [Modals](./modals.md)
+- [Modals](../application-components/modals.md)

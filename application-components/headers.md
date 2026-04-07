@@ -61,7 +61,7 @@ Headers are structural. Interactive child controls carry their own states.
 **Do not invent**: Do not stack multiple header patterns for the same content scope.
 
 ## Related
-- [Buttons](./button.md)
-- [Breadcrumbs](./breadcrumbs.md)
-- [Tabs](./tabs.md)
+- [Buttons](../components/button.md)
+- [Breadcrumbs](../components/breadcrumbs.md)
+- [Tabs](../components/tabs.md)
 - [Navigation](./navigation.md)

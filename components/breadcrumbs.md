@@ -51,5 +51,5 @@ Default · Hover · Focused
 **Do not invent**: Do not use breadcrumbs as primary/global navigation; use Navigation instead.
 
 ## Related
-- [Navigation](./navigation.md)
-- [Headers](./headers.md)
+- [Navigation](../application-components/navigation.md)
+- [Headers](../application-components/headers.md)

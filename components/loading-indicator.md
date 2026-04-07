@@ -51,5 +51,5 @@ Single state (always loading). No Default/Hover/Disabled variants.
 **Do not invent**: Do not use custom spinners when the Loading Indicator family covers the state.
 
 ## Related
-- [Progress steps + Timeline](./progress-steps-timeline.md)
+- [Progress steps + Timeline](../application-components/progress-steps-timeline.md)
 - [Buttons](./button.md)

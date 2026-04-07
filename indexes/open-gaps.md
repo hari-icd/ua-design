@@ -3,7 +3,7 @@
 Known gaps or follow-up candidates for the UnifyApps design-system knowledge base.
 
 ## Missing Or Under-Specified Components
-- Toggle/Switch is referenced in [checkbox-radio.md](../checkbox-radio.md) and [dropdowns.md](../dropdowns.md), but there is no dedicated Toggle/Switch doc in this folder.
+- Toggle/Switch is referenced in [checkbox-radio.md](../components/checkbox-radio.md) and [dropdowns.md](../components/dropdowns.md), but there is no dedicated Toggle/Switch doc in this folder.
 - Pagination appears in the Figma file page list but is not currently represented as a component doc.
 - Side Panel appears in the broader Figma file but is not currently represented as a component doc.
 - Messaging appears in the broader Figma file but is not currently represented as a component doc.

@@ -15,6 +15,7 @@
 - Added compiled wiki indexes under `indexes/`: component map, decision map, composition recipes, Figma node map, and open gaps.
 - Added reusable experience recipes under `patterns/`: form page, data table page, wizard flow, and upload flow.
 - Added `health-checks.md` as the repeatable QA checklist for link integrity, Figma sync, Agent Contract coverage, consistency, and gap filing.
+- Organized component docs out of the root: core primitives now live under `components/`, larger product/application components now live under `application-components/`, and the root stays focused on onboarding, agent rules, indexes, health checks, and notes.
 
 ### In-page component docs workflow
 - Use `figma-use` before any `use_figma` write. Return created/mutated node IDs from the script.

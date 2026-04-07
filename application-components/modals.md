@@ -59,6 +59,6 @@ Open · Loading · Error · Dismissed
 **Do not invent**: Do not nest modals or use modals for passive inline information.
 
 ## Related
-- [Buttons](./button.md)
+- [Buttons](../components/button.md)
 - [Section Footers](./section-footers.md)
 - [Headers](./headers.md)

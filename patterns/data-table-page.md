@@ -3,12 +3,12 @@
 Use this when agents need to create record browsing, filtering, and row-action experiences.
 
 ## Components
-- [Headers](../headers.md) for title, filters, and page actions.
-- [Tables](../tables.md) for structured row/column data.
-- [Dropdowns](../dropdowns.md) for row overflow and compact actions.
-- [Checkbox & Radio](../checkbox-radio.md) for row selection when bulk actions exist.
-- [Loading Indicator](../loading-indicator.md) for blocked async loads.
-- [Alerts & Notifications](../alerts-notifications.md) for table-level errors.
+- [Headers](../application-components/headers.md) for title, filters, and page actions.
+- [Tables](../application-components/tables.md) for structured row/column data.
+- [Dropdowns](../components/dropdowns.md) for row overflow and compact actions.
+- [Checkbox & Radio](../components/checkbox-radio.md) for row selection when bulk actions exist.
+- [Loading Indicator](../components/loading-indicator.md) for blocked async loads.
+- [Alerts & Notifications](../components/alerts-notifications.md) for table-level errors.
 
 ## Agent Recipe
 1. Use Page Header to identify the record set.

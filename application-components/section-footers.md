@@ -84,6 +84,6 @@ Footers are structural components — individual buttons inside carry their own 
 **Do not invent**: Do not stack footers or put more than 2 actions in a section footer.
 
 ## Related
-- [Buttons](./button.md)
+- [Buttons](../components/button.md)
 - [Modals](./modals.md)
 - [Headers](./headers.md)

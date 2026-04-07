@@ -3,12 +3,12 @@
 Use this when agents need to create a standard create/edit/settings form.
 
 ## Components
-- [Headers](../headers.md) for page or section title.
-- [Inputs](../inputs.md) for free text values.
-- [Checkbox & Radio](../checkbox-radio.md) for visible choices.
-- [Dropdowns](../dropdowns.md) for compact choice sets.
-- [Alerts & Notifications](../alerts-notifications.md) for blocking validation or inline status.
-- [Section Footers](../section-footers.md) for anchored Save/Cancel.
+- [Headers](../application-components/headers.md) for page or section title.
+- [Inputs](../components/inputs.md) for free text values.
+- [Checkbox & Radio](../components/checkbox-radio.md) for visible choices.
+- [Dropdowns](../components/dropdowns.md) for compact choice sets.
+- [Alerts & Notifications](../components/alerts-notifications.md) for blocking validation or inline status.
+- [Section Footers](../application-components/section-footers.md) for anchored Save/Cancel.
 
 ## Agent Recipe
 1. Start with a Page Header.

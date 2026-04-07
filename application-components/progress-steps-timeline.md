@@ -127,5 +127,5 @@ Default · Hover · Focus (on interactive steps)
 **Do not invent**: Do not mix horizontal and vertical progress orientations in one flow.
 
 ## Related
-- [Tabs](./tabs.md)
-- [Loading Indicator](./loading-indicator.md)
+- [Tabs](../components/tabs.md)
+- [Loading Indicator](../components/loading-indicator.md)

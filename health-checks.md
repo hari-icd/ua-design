@@ -6,6 +6,7 @@ Repeatable checks agents should run to keep this design-system wiki trustworthy.
 - Verify every relative Markdown link resolves to an existing file.
 - Verify every component in [index.md](./index.md) links to an existing `.md` source.
 - Verify every `Related` link points to an existing component doc or an explicit open gap.
+- Verify root component docs have not drifted back into the root; core docs belong in `components/`, and larger product docs belong in `application-components/`.
 
 ## Figma Sync
 - Verify every component doc has:

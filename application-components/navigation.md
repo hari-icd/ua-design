@@ -66,6 +66,6 @@ Default · Hover · Focus · Active · Disabled · Expanded
 **Do not invent**: Do not create custom nav rails, breadcrumbs, or tenant switchers outside this family.
 
 ## Related
-- [Breadcrumbs](./breadcrumbs.md)
-- [Tabs](./tabs.md)
+- [Breadcrumbs](../components/breadcrumbs.md)
+- [Tabs](../components/tabs.md)
 - [Headers](./headers.md)

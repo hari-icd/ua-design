@@ -72,6 +72,6 @@ Default · Hover · Focus · Disabled
 **Do not invent**: Do not nest tabs within tabs or use tabs for unrelated global destinations.
 
 ## Related
-- [Progress Steps + Timeline](./progress-steps-timeline.md)
-- [Navigation](./navigation.md)
-- [Headers](./headers.md)
+- [Progress Steps + Timeline](../application-components/progress-steps-timeline.md)
+- [Navigation](../application-components/navigation.md)
+- [Headers](../application-components/headers.md)

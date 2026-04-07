@@ -11,10 +11,14 @@
             "id": "1990f7b25fc00343",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "agent-rules.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "agent-rules"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "agent-rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for agent-rules"
             }
           },
           {
@@ -178,35 +183,37 @@
   },
   "active": "1990f7b25fc00343",
   "lastOpenFiles": [
+    "patterns/data-table-page.md",
+    "application-components/README.md",
+    "components/README.md",
+    "application-components/tables.md",
+    "application-components/section-footers.md",
+    "application-components/progress-steps-timeline.md",
+    "application-components/navigation.md",
+    "application-components/modals.md",
+    "application-components/file-upload.md",
+    "application-components/headers.md",
+    "components/loading-indicator.md",
+    "components/tabs.md",
+    "components/inputs.md",
+    "components/code-snippet.md",
+    "components/dropdowns.md",
+    "components/checkbox-radio.md",
+    "components/breadcrumbs.md",
+    "components/avatar.md",
+    "components/alerts-notifications.md",
+    "components/button.md",
+    "application-components",
+    "components",
     "agent-rules.md",
+    "_notes.md",
     "patterns/upload-flow.md",
     "patterns/wizard-flow.md",
-    "patterns/data-table-page.md",
     "patterns/form-page.md",
     "health-checks.md",
-    "indexes/open-gaps.md",
-    "indexes/figma-node-map.md",
-    "indexes/composition-recipes.md",
-    "indexes/decision-map.md",
-    "indexes/component-map.md",
     "patterns",
     "indexes",
-    "index.md",
-    "_notes.md",
-    "alerts-notifications.md",
-    "file-upload.md",
-    "progress-steps-timeline.md",
-    "navigation.md",
-    "modals.md",
-    "loading-indicator.md",
-    "dropdowns.md",
-    "code-snippet.md",
-    "button.md",
-    "breadcrumbs.md",
-    "avatar.md",
-    "tabs.md",
     "Untitled.base",
-    "Untitled.canvas",
-    "tables.md"
+    "Untitled.canvas"
   ]
 }

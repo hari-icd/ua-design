@@ -23,26 +23,26 @@ Global rules for agents using the UnifyApps component documentation to design or
 ## Component Selection Map
 | Need | Use | Avoid |
 |------|-----|-------|
-| Trigger an action | [Button](./button.md) | Link-style text unless the action is inline |
-| Confirm a user action briefly | [Alerts & Notifications](./alerts-notifications.md) → Snackbar | Persistent Alert |
-| Show blocking inline status | [Alerts & Notifications](./alerts-notifications.md) → Alert | Toast/Snackbar |
-| Show page or slideout failure | [Alerts & Notifications](./alerts-notifications.md) → Global Error | Inline warning |
-| Represent a user | [Avatar](./avatar.md) | Generic icon when identity exists |
-| Show hierarchy path | [Breadcrumbs](./breadcrumbs.md) | Primary navigation |
-| Collect text input | [Inputs](./inputs.md) | Dropdown for freeform values |
-| Pick from 2–5 mutually exclusive options | [Checkbox & Radio](./checkbox-radio.md) → Radio | Dropdown unless space is constrained |
-| Pick multiple visible options | [Checkbox & Radio](./checkbox-radio.md) → Checkbox | Radio |
-| Expose compact options/actions | [Dropdowns](./dropdowns.md) | Tabs for actions |
-| Show code or copyable technical text | [Code Snippet](./code-snippet.md) | Editable input |
-| Show indeterminate async progress | [Loading Indicator](./loading-indicator.md) | Progress Steps |
-| Show sequential workflow progress | [Progress Steps + Timeline](./progress-steps-timeline.md) | Tabs |
-| Switch parallel content views | [Tabs](./tabs.md) | Progress Steps |
-| Place page/card/builder titles and actions | [Headers](./headers.md) | Inline text-only headers for major scopes |
-| Anchor form/modal/panel actions | [Section Footers](./section-footers.md) | Inline buttons when content scrolls |
-| Focus a blocking task | [Modals](./modals.md) | Navigation to a new page for quick decisions |
-| Move across product areas/settings | [Navigation](./navigation.md) | Tabs for global destinations |
-| Show structured records | [Tables](./tables.md) | Cards for dense comparable data |
-| Upload/import files | [File Upload](./file-upload.md) | Plain input when file validation/progress matters |
+| Trigger an action | [Button](./components/button.md) | Link-style text unless the action is inline |
+| Confirm a user action briefly | [Alerts & Notifications](./components/alerts-notifications.md) → Snackbar | Persistent Alert |
+| Show blocking inline status | [Alerts & Notifications](./components/alerts-notifications.md) → Alert | Toast/Snackbar |
+| Show page or slideout failure | [Alerts & Notifications](./components/alerts-notifications.md) → Global Error | Inline warning |
+| Represent a user | [Avatar](./components/avatar.md) | Generic icon when identity exists |
+| Show hierarchy path | [Breadcrumbs](./components/breadcrumbs.md) | Primary navigation |
+| Collect text input | [Inputs](./components/inputs.md) | Dropdown for freeform values |
+| Pick from 2–5 mutually exclusive options | [Checkbox & Radio](./components/checkbox-radio.md) → Radio | Dropdown unless space is constrained |
+| Pick multiple visible options | [Checkbox & Radio](./components/checkbox-radio.md) → Checkbox | Radio |
+| Expose compact options/actions | [Dropdowns](./components/dropdowns.md) | Tabs for actions |
+| Show code or copyable technical text | [Code Snippet](./components/code-snippet.md) | Editable input |
+| Show indeterminate async progress | [Loading Indicator](./components/loading-indicator.md) | Progress Steps |
+| Show sequential workflow progress | [Progress Steps + Timeline](./application-components/progress-steps-timeline.md) | Tabs |
+| Switch parallel content views | [Tabs](./components/tabs.md) | Progress Steps |
+| Place page/card/builder titles and actions | [Headers](./application-components/headers.md) | Inline text-only headers for major scopes |
+| Anchor form/modal/panel actions | [Section Footers](./application-components/section-footers.md) | Inline buttons when content scrolls |
+| Focus a blocking task | [Modals](./application-components/modals.md) | Navigation to a new page for quick decisions |
+| Move across product areas/settings | [Navigation](./application-components/navigation.md) | Tabs for global destinations |
+| Show structured records | [Tables](./application-components/tables.md) | Cards for dense comparable data |
+| Upload/import files | [File Upload](./application-components/file-upload.md) | Plain input when file validation/progress matters |
 
 ## Composition Recipes
 | Experience | Recommended composition |

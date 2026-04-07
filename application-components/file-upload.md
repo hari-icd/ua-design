@@ -56,6 +56,6 @@ Empty · Hover · Focus · Uploading · Uploaded · Error · Disabled
 **Do not invent**: Do not use a plain input when upload progress, validation, or file rows are needed.
 
 ## Related
-- [Loading Indicator](./loading-indicator.md)
-- [Alerts & Notifications](./alerts-notifications.md)
-- [Buttons](./button.md)
+- [Loading Indicator](../components/loading-indicator.md)
+- [Alerts & Notifications](../components/alerts-notifications.md)
+- [Buttons](../components/button.md)

@@ -22,27 +22,36 @@ Read these before individual component docs when generating new experiences:
 | [indexes/open-gaps.md](./indexes/open-gaps.md) | Known missing/under-specified DS areas |
 | [health-checks.md](./health-checks.md) | Repeatable wiki integrity checks |
 
+## Repository Layout
+
+| Folder | Contents |
+|--------|----------|
+| [components/](./components/README.md) | Core reusable component docs and primitives |
+| [application-components/](./application-components/README.md) | Larger product/application component docs |
+| [indexes/](./indexes/component-map.md) | Compiled lookup maps for agents |
+| [patterns/](./patterns/form-page.md) | Reusable experience recipes |
+
 ## Components
 
 | Component | File | Category | Status |
 |-----------|------|----------|--------|
-| Alerts & Notifications | [alerts-notifications.md](./alerts-notifications.md) | components | done |
-| Avatars | [avatar.md](./avatar.md) | components | done |
-| Breadcrumbs | [breadcrumbs.md](./breadcrumbs.md) | components | done |
-| Buttons | [button.md](./button.md) | components | done |
-| Checkbox & Radio | [checkbox-radio.md](./checkbox-radio.md) | components | done |
-| Code Snippet | [code-snippet.md](./code-snippet.md) | components | done |
-| Dropdowns | [dropdowns.md](./dropdowns.md) | components | done |
-| File Upload | [file-upload.md](./file-upload.md) | application-components | done |
-| Headers | [headers.md](./headers.md) | application-components | done |
-| Inputs | [inputs.md](./inputs.md) | components | done |
-| Loading Indicator | [loading-indicator.md](./loading-indicator.md) | components | done |
-| Modals | [modals.md](./modals.md) | application-components | done |
-| Navigation | [navigation.md](./navigation.md) | application-components | done |
-| Progress Steps + Timeline | [progress-steps-timeline.md](./progress-steps-timeline.md) | application-components | done |
-| Section Footers | [section-footers.md](./section-footers.md) | application-components | done |
-| Tables | [tables.md](./tables.md) | application-components | done |
-| Tabs | [tabs.md](./tabs.md) | components | done |
+| Alerts & Notifications | [alerts-notifications.md](./components/alerts-notifications.md) | components | done |
+| Avatars | [avatar.md](./components/avatar.md) | components | done |
+| Breadcrumbs | [breadcrumbs.md](./components/breadcrumbs.md) | components | done |
+| Buttons | [button.md](./components/button.md) | components | done |
+| Checkbox & Radio | [checkbox-radio.md](./components/checkbox-radio.md) | components | done |
+| Code Snippet | [code-snippet.md](./components/code-snippet.md) | components | done |
+| Dropdowns | [dropdowns.md](./components/dropdowns.md) | components | done |
+| File Upload | [file-upload.md](./application-components/file-upload.md) | application-components | done |
+| Headers | [headers.md](./application-components/headers.md) | application-components | done |
+| Inputs | [inputs.md](./components/inputs.md) | components | done |
+| Loading Indicator | [loading-indicator.md](./components/loading-indicator.md) | components | done |
+| Modals | [modals.md](./application-components/modals.md) | application-components | done |
+| Navigation | [navigation.md](./application-components/navigation.md) | application-components | done |
+| Progress Steps + Timeline | [progress-steps-timeline.md](./application-components/progress-steps-timeline.md) | application-components | done |
+| Section Footers | [section-footers.md](./application-components/section-footers.md) | application-components | done |
+| Tables | [tables.md](./application-components/tables.md) | application-components | done |
+| Tabs | [tabs.md](./components/tabs.md) | components | done |
 
 ---
 

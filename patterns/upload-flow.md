@@ -3,10 +3,10 @@
 Use this when agents need file import, validation, and review.
 
 ## Components
-- [File Upload](../file-upload.md) for dropzone and uploaded file rows.
-- [Loading Indicator](../loading-indicator.md) for indeterminate upload work.
-- [Alerts & Notifications](../alerts-notifications.md) for validation errors and confirmations.
-- [Button](../button.md) for submit, retry, and remove actions.
+- [File Upload](../application-components/file-upload.md) for dropzone and uploaded file rows.
+- [Loading Indicator](../components/loading-indicator.md) for indeterminate upload work.
+- [Alerts & Notifications](../components/alerts-notifications.md) for validation errors and confirmations.
+- [Button](../components/button.md) for submit, retry, and remove actions.
 
 ## Agent Recipe
 1. Start with File Upload Unit for the upload surface.

@@ -93,4 +93,4 @@ Default · Hover · Selected · Focused
 
 ## Related
 - [Buttons](./button.md)
-- [Tables](./tables.md)
+- [Tables](../application-components/tables.md)

@@ -58,6 +58,6 @@ Default · Hover · Selected · Disabled · Sorted · Loading · Empty
 **Do not invent**: Do not use tables for small key-value detail blocks or unstructured content.
 
 ## Related
-- [Checkbox & Radio](./checkbox-radio.md)
-- [Dropdowns](./dropdowns.md)
+- [Checkbox & Radio](../components/checkbox-radio.md)
+- [Dropdowns](../components/dropdowns.md)
 - [Headers](./headers.md)
