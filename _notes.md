@@ -17,6 +17,8 @@
 - Added `health-checks.md` as the repeatable QA checklist for link integrity, Figma sync, Agent Contract coverage, consistency, and gap filing.
 - Organized component docs out of the root: core primitives now live under `components/`, larger product/application components now live under `application-components/`, and the root stays focused on onboarding, agent rules, indexes, health checks, and notes.
 - On April 8, 2026, switched the active source-of-truth Figma file from `UglTWbSMldmsVjwl9nZbo6` to `JkJ2dva8GS70ka8dQOlnML`, migrated repo frontmatter/node mappings, and added new docs for List Item Cards, Sliders, Pill, Toggles, Scrollbar, Selection Pill, Side Panel, Messaging, Date Pickers, and Button+Toggle Groups.
+- Imported the shared token dump into `tokens/source/unify-ds.json` so future app work can use a repo-local token source instead of relying on a file in `Downloads`.
+- The token dump currently covers colors, spacing, radius, widths, containers, and font families; it does not yet cover a full typography scale, effect/shadow tokens, or icons.
 
 ### In-page component docs workflow
 - Use `figma-use` before any `use_figma` write. Return created/mutated node IDs from the script.

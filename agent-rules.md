@@ -5,11 +5,13 @@ Global rules for agents using the UnifyApps component documentation to design or
 ## Read Order
 1. Read this file first for global selection and composition rules.
 2. Read [indexes/component-map.md](./indexes/component-map.md), [indexes/decision-map.md](./indexes/decision-map.md), or [indexes/composition-recipes.md](./indexes/composition-recipes.md) depending on the task.
-3. Read the specific component docs linked from [index.md](./index.md).
-4. Use each file's `figma_in_page_doc_url` as the visual reference and `figma_node_id` as the `markdown-content` source node.
+3. For code or app implementation work, read [tokens/README.md](./tokens/README.md) and [tokens/token-dump-audit.md](./tokens/token-dump-audit.md) before introducing design values.
+4. Read the specific component docs linked from [index.md](./index.md).
+5. Use each file's `figma_in_page_doc_url` as the visual reference and `figma_node_id` as the `markdown-content` source node.
 
 ## Global Agent Contract
 - Prefer existing documented components before inventing custom UI.
+- Prefer repo-local tokens before inventing colors, spacing, radius, widths, or font-family values.
 - Choose components by semantic intent first, visual appearance second.
 - Use the smallest component family that satisfies the task; do not overbuild a pattern.
 - Keep one primary action per page, modal, footer, or card scope.
@@ -81,5 +83,6 @@ Global rules for agents using the UnifyApps component documentation to design or
 ## Output Expectations for Agents
 - Name the components and variants used in proposed UIs.
 - Mention any unresolved DS gap explicitly.
+- Mention unresolved token gaps explicitly instead of inventing missing typography, shadow, icon, or motion scales.
 - Link to the relevant `.md` files when explaining a design decision.
 - Keep generated experiences aligned to the documented hierarchy, state, and composition rules.

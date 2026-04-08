@@ -21,6 +21,7 @@ Read these before individual component docs when generating new experiences:
 | [indexes/figma-node-map.md](./indexes/figma-node-map.md) | Mapping Markdown docs to Figma nodes |
 | [indexes/open-gaps.md](./indexes/open-gaps.md) | Known missing/under-specified DS areas |
 | [health-checks.md](./health-checks.md) | Repeatable wiki integrity checks |
+| [tokens/README.md](./tokens/README.md) | Repo-local token source and token audit for app implementation |
 
 ## Repository Layout
 
@@ -30,6 +31,7 @@ Read these before individual component docs when generating new experiences:
 | [application-components/](./application-components/README.md) | Larger product/application component docs   |
 | [indexes/](./indexes/component-map.md)                        | Compiled lookup maps for agents             |
 | [patterns/](./patterns/form-page.md)                          | Reusable experience recipes                 |
+| [tokens/](./tokens/README.md)                                 | Repo-local design token sources and audits  |
 
 ## Components
 
