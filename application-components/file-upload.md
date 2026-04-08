@@ -1,11 +1,11 @@
 ---
 component: File Upload
 category: application-components
-figma_page: 21:19128
-figma_file: UglTWbSMldmsVjwl9nZbo6
-figma_node_id: 55:24016
-figma_in_page_doc_url: "https://www.figma.com/design/UglTWbSMldmsVjwl9nZbo6/ICD-Test-DS?node-id=55-24012"
-figma_in_page_doc_node_id: "55:24012"
+figma_page: 1157:90306
+figma_file: JkJ2dva8GS70ka8dQOlnML
+figma_node_id: 58153:43831
+figma_in_page_doc_url: "https://www.figma.com/design/JkJ2dva8GS70ka8dQOlnML/ICD-Test-DS?node-id=58153-43827"
+figma_in_page_doc_node_id: "58153:43827"
 ---
 
 # File Upload

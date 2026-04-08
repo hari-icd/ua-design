@@ -1,11 +1,11 @@
 ---
 component: Tabs
 category: components
-figma_page: 20:3102
-figma_file: UglTWbSMldmsVjwl9nZbo6
-figma_node_id: 45:35804
-figma_in_page_doc_url: "https://www.figma.com/design/UglTWbSMldmsVjwl9nZbo6/ICD-Test-DS?node-id=45-35800"
-figma_in_page_doc_node_id: "45:35800"
+figma_page: 43:0
+figma_file: JkJ2dva8GS70ka8dQOlnML
+figma_node_id: 58153:37063
+figma_in_page_doc_url: "https://www.figma.com/design/JkJ2dva8GS70ka8dQOlnML/ICD-Test-DS?node-id=58153-37059"
+figma_in_page_doc_node_id: "58153:37059"
 ---
 
 # Tabs

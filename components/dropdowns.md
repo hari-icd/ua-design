@@ -1,11 +1,11 @@
 ---
 component: Dropdowns
 category: components
-figma_page: 10:15619
-figma_file: UglTWbSMldmsVjwl9nZbo6
-figma_node_id: 55:1632
-figma_in_page_doc_url: "https://www.figma.com/design/UglTWbSMldmsVjwl9nZbo6/ICD-Test-DS?node-id=55-1628"
-figma_in_page_doc_node_id: "55:1628"
+figma_page: 18:0
+figma_file: JkJ2dva8GS70ka8dQOlnML
+figma_node_id: 58153:13132
+figma_in_page_doc_url: "https://www.figma.com/design/JkJ2dva8GS70ka8dQOlnML/ICD-Test-DS?node-id=58153-13128"
+figma_in_page_doc_node_id: "58153:13128"
 ---
 
 # Dropdowns

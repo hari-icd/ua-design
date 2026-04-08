@@ -1,11 +1,11 @@
 ---
 component: Loading Indicator
 category: components
-figma_page: 22:20377
-figma_file: UglTWbSMldmsVjwl9nZbo6
-figma_node_id: 45:35792
-figma_in_page_doc_url: "https://www.figma.com/design/UglTWbSMldmsVjwl9nZbo6/ICD-Test-DS?node-id=45-35788"
-figma_in_page_doc_node_id: "45:35788"
+figma_page: 1172:32
+figma_file: JkJ2dva8GS70ka8dQOlnML
+figma_node_id: 58153:43327
+figma_in_page_doc_url: "https://www.figma.com/design/JkJ2dva8GS70ka8dQOlnML/ICD-Test-DS?node-id=58153-43323"
+figma_in_page_doc_node_id: "58153:43323"
 ---
 
 # Loading Indicator

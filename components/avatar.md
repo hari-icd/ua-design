@@ -1,11 +1,11 @@
 ---
 component: Avatar
 category: components
-figma_page: 8:2589
-figma_file: UglTWbSMldmsVjwl9nZbo6
-figma_node_id: 47:1613
-figma_in_page_doc_url: "https://www.figma.com/design/UglTWbSMldmsVjwl9nZbo6/ICD-Test-DS?node-id=47-1609"
-figma_in_page_doc_node_id: "47:1609"
+figma_page: 13931:29731
+figma_file: JkJ2dva8GS70ka8dQOlnML
+figma_node_id: 58136:3105
+figma_in_page_doc_url: "https://www.figma.com/design/JkJ2dva8GS70ka8dQOlnML/ICD-Test-DS?node-id=58136-3101"
+figma_in_page_doc_node_id: "58136:3101"
 ---
 
 # Avatar
@@ -31,12 +31,12 @@ Visual representation of a user, entity, or object. A rich component family cove
 - **Verified tick**: Verification badge overlay
 
 ## Variants (Core Avatar)
-| Property | Values | Notes |
-|----------|--------|-------|
-| Size | xxs · xs · sm · md · lg · xl · 2xl | xxs=20px, xs=24px, sm=32px, md=40px, lg=48px, xl=56px, 2xl=64px |
-| Type | Letter · Icon · Image | Letter = initials, Icon = generic placeholder icon, Image = photo |
-| Colour | Gray · Brand Subtle · Brand Solid · Default | Only for Letter and Icon types |
-| State | Default · Hover · Selected · Focused | — |
+| Property | Values                                      | Notes                                                             |
+| -------- | ------------------------------------------- | ----------------------------------------------------------------- |
+| Size     | xxs · xs · sm · md · lg · xl · 2xl          | xxs=20px, xs=24px, sm=32px, md=40px, lg=48px, xl=56px, 2xl=64px   |
+| Type     | Letter · Icon · Image                       | Letter = initials, Icon = generic placeholder icon, Image = photo |
+| Colour   | Gray · Brand Subtle · Brand Solid · Default | Only for Letter and Icon types                                    |
+| State    | Default · Hover · Selected · Focused        | —                                                                 |
 
 ## Variants (Label Group)
 | Property | Values |

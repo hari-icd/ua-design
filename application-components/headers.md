@@ -1,11 +1,11 @@
 ---
 component: Headers
 category: application-components
-figma_page: 15:37845
-figma_file: UglTWbSMldmsVjwl9nZbo6
-figma_node_id: 55:7012
-figma_in_page_doc_url: "https://www.figma.com/design/UglTWbSMldmsVjwl9nZbo6/ICD-Test-DS?node-id=55-7008"
-figma_in_page_doc_node_id: "55:7008"
+figma_page: 190:4871
+figma_file: JkJ2dva8GS70ka8dQOlnML
+figma_node_id: 58153:19776
+figma_in_page_doc_url: "https://www.figma.com/design/JkJ2dva8GS70ka8dQOlnML/ICD-Test-DS?node-id=58153-19772"
+figma_in_page_doc_node_id: "58153:19772"
 ---
 
 # Headers

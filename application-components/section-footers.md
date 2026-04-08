@@ -1,11 +1,11 @@
 ---
 component: Section Footers
 category: application-components
-figma_page: 16:41061
-figma_file: UglTWbSMldmsVjwl9nZbo6
-figma_node_id: 47:4260
-figma_in_page_doc_url: "https://www.figma.com/design/UglTWbSMldmsVjwl9nZbo6/ICD-Test-DS?node-id=47-4256"
-figma_in_page_doc_node_id: "47:4256"
+figma_page: 3275:371793
+figma_file: JkJ2dva8GS70ka8dQOlnML
+figma_node_id: 58153:19877
+figma_in_page_doc_url: "https://www.figma.com/design/JkJ2dva8GS70ka8dQOlnML/ICD-Test-DS?node-id=58153-19873"
+figma_in_page_doc_node_id: "58153:19873"
 ---
 
 # Section Footers

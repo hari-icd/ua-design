@@ -1,26 +1,26 @@
 ---
 component: Progress Steps + Timeline
 category: application-components
-figma_page: 18:83802
-figma_file: UglTWbSMldmsVjwl9nZbo6
-figma_node_id: 45:35810
-figma_in_page_doc_url: "https://www.figma.com/design/UglTWbSMldmsVjwl9nZbo6/ICD-Test-DS?node-id=45-35806"
-figma_in_page_doc_node_id: "45:35806"
+figma_page: 53:1288
+figma_file: JkJ2dva8GS70ka8dQOlnML
+figma_node_id: 58153:37057
+figma_in_page_doc_url: "https://www.figma.com/design/JkJ2dva8GS70ka8dQOlnML/ICD-Test-DS?node-id=58153-37053"
+figma_in_page_doc_node_id: "58153:37053"
 ---
 
 # Progress Steps + Timeline
 A family of sequential indicator and chronicle components covering wizard progress, timelines, and activity feeds.
 
 ## Sub-components Overview
-| Sub-component | Use for |
-|---------------|---------|
-| Progress Steps Horizontal | Left-to-right step indicator for wizards |
-| Progress Steps Vertical | Top-to-bottom step list with optional sub-steps |
-| Progress Steps Arrow | Compact arrow-chevron stepper |
-| Progress Steps Icons Horizontal | Icon-only horizontal indicator |
-| Progress Steps Icons Minimal | Minimal icon strip with optional labels |
-| Timeline | Chronological event sequence (Dot or Featured icon) |
-| Activity | Activity feed with avatar or icon markers |
+| Sub-component                   | Use for                                             |
+| ------------------------------- | --------------------------------------------------- |
+| Progress Steps Horizontal       | Left-to-right step indicator for wizards            |
+| Progress Steps Vertical         | Top-to-bottom step list with optional sub-steps     |
+| Progress Steps Arrow            | Compact arrow-chevron stepper                       |
+| Progress Steps Icons Horizontal | Icon-only horizontal indicator                      |
+| Progress Steps Icons Minimal    | Minimal icon strip with optional labels             |
+| Timeline                        | Chronological event sequence (Dot or Featured icon) |
+| Activity                        | Activity feed with avatar or icon markers           |
 
 ---
 
@@ -34,12 +34,12 @@ A family of sequential indicator and chronicle components covering wizard progre
 - **Sub-steps**: Nested child steps under a parent (`Sub-steps=Yes`)
 
 ### Step Status Values
-| Status | Meaning |
-|--------|---------|
-| Incomplete | Not yet reached |
-| Current | Active/in-progress |
-| Complete | Successfully finished |
-| Error | Failed or requires attention |
+| Status     | Meaning                      |
+| ---------- | ---------------------------- |
+| Incomplete | Not yet reached              |
+| Current    | Active/in-progress           |
+| Complete   | Successfully finished        |
+| Error      | Failed or requires attention |
 
 ### Variants (Step Base)
 | Property | Values |

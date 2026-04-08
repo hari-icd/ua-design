@@ -1,11 +1,11 @@
 ---
 component: Tables
 category: application-components
-figma_page: 21:7605
-figma_file: UglTWbSMldmsVjwl9nZbo6
-figma_node_id: 55:22832
-figma_in_page_doc_url: "https://www.figma.com/design/UglTWbSMldmsVjwl9nZbo6/ICD-Test-DS?node-id=55-22828"
-figma_in_page_doc_node_id: "55:22828"
+figma_page: 214:0
+figma_file: JkJ2dva8GS70ka8dQOlnML
+figma_node_id: 58153:39894
+figma_in_page_doc_url: "https://www.figma.com/design/JkJ2dva8GS70ka8dQOlnML/ICD-Test-DS?node-id=58153-39890"
+figma_in_page_doc_node_id: "58153:39890"
 ---
 
 # Tables

@@ -1,11 +1,11 @@
 ---
 component: Alerts & Notifications
 category: components
-figma_page: 21:11576
-figma_file: UglTWbSMldmsVjwl9nZbo6
-figma_node_id: 45:35798
-figma_in_page_doc_url: "https://www.figma.com/design/UglTWbSMldmsVjwl9nZbo6/ICD-Test-DS?node-id=45-35794"
-figma_in_page_doc_node_id: "45:35794"
+figma_page: 176:4256
+figma_file: JkJ2dva8GS70ka8dQOlnML
+figma_node_id: 58153:41775
+figma_in_page_doc_url: "https://www.figma.com/design/JkJ2dva8GS70ka8dQOlnML/ICD-Test-DS?node-id=58153-41771"
+figma_in_page_doc_node_id: "58153:41771"
 ---
 
 # Alerts & Notifications

@@ -1,11 +1,11 @@
 ---
 component: Button
 category: components
-figma_page: 9:6982
-figma_file: UglTWbSMldmsVjwl9nZbo6
-figma_node_id: 47:3823
-figma_in_page_doc_url: "https://www.figma.com/design/UglTWbSMldmsVjwl9nZbo6/ICD-Test-DS?node-id=47-3819"
-figma_in_page_doc_node_id: "47:3819"
+figma_page: 1:1183
+figma_file: JkJ2dva8GS70ka8dQOlnML
+figma_node_id: 58136:5500
+figma_in_page_doc_url: "https://www.figma.com/design/JkJ2dva8GS70ka8dQOlnML/ICD-Test-DS?node-id=58136-5496"
+figma_in_page_doc_node_id: "58136:5496"
 ---
 
 # Button

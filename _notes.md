@@ -16,15 +16,16 @@
 - Added reusable experience recipes under `patterns/`: form page, data table page, wizard flow, and upload flow.
 - Added `health-checks.md` as the repeatable QA checklist for link integrity, Figma sync, Agent Contract coverage, consistency, and gap filing.
 - Organized component docs out of the root: core primitives now live under `components/`, larger product/application components now live under `application-components/`, and the root stays focused on onboarding, agent rules, indexes, health checks, and notes.
+- On April 8, 2026, switched the active source-of-truth Figma file from `UglTWbSMldmsVjwl9nZbo6` to `JkJ2dva8GS70ka8dQOlnML`, migrated repo frontmatter/node mappings, and added new docs for List Item Cards, Sliders, Pill, Toggles, Scrollbar, Selection Pill, Side Panel, Messaging, Date Pickers, and Button+Toggle Groups.
 
 ### In-page component docs workflow
 - Use `figma-use` before any `use_figma` write. Return created/mutated node IDs from the script.
-- Current target file: `UglTWbSMldmsVjwl9nZbo6` (`ICD-Test-DS`).
+- Current target file: `JkJ2dva8GS70ka8dQOlnML` (`ICD-Test-DS`).
 - In-page docs convention: one top-level frame per component page named `📋 In-page docs — {Component}`.
 - Each in-page docs frame contains a `markdown-content` text layer generated from the local `.md` source of truth.
 - On reruns, find the existing `📋 In-page docs — {Component}` frame, preserve its position, clear its children, and rebuild the docs content instead of creating duplicates.
 - For new frames, place the docs to the right of the existing page content using the page content bounds plus a gap.
-- Figma node links can be written back to frontmatter with the file key and node ID converted from `45:35794` to `45-35794`: `https://www.figma.com/design/UglTWbSMldmsVjwl9nZbo6/ICD-Test-DS?node-id=45-35794`.
+- Figma node links can be written back to frontmatter with the file key and node ID converted from `58153:41771` to `58153-41771`: `https://www.figma.com/design/JkJ2dva8GS70ka8dQOlnML/ICD-Test-DS?node-id=58153-41771`.
 - Correction note: in-page docs were first created in `ckqzPKg0VuzsDXXpMIVWkl` by mistake. They were cross-checked against ICD-Test-DS, the missing docs were recreated in ICD-Test-DS, and the exact known wrong-file doc frames were removed from `ckqzPKg0VuzsDXXpMIVWkl`.
 
 ### In-page docs created
@@ -66,7 +67,7 @@
 - Use `get_metadata` first to navigate structure, then `get_design_context` on specific node IDs
 - Avoid calling `get_design_context` on large frames — drill down to specific components first
 
-## File: ICD-Test-DS (`UglTWbSMldmsVjwl9nZbo6`)
+## File: ICD-Test-DS (`JkJ2dva8GS70ka8dQOlnML`)
 - Pages listed below are from the ICD-Test-DS file.
 
 ## Page Listing Strategy

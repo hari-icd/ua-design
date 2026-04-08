@@ -29,7 +29,14 @@ Global rules for agents using the UnifyApps component documentation to design or
 | Show page or slideout failure | [Alerts & Notifications](./components/alerts-notifications.md) → Global Error | Inline warning |
 | Represent a user | [Avatar](./components/avatar.md) | Generic icon when identity exists |
 | Show hierarchy path | [Breadcrumbs](./components/breadcrumbs.md) | Primary navigation |
+| Show compact grouped actions or visible mode switches | [Button+Toggle Groups](./components/button-toggle-groups.md) | Tabs for page-level navigation |
 | Collect text input | [Inputs](./components/inputs.md) | Dropdown for freeform values |
+| Show richer record rows with metadata/actions | [List Item Cards](./components/list-item-cards.md) | Table if column comparison is primary |
+| Adjust a bounded numeric value | [Sliders](./components/sliders.md) | Plain input alone when relative control matters |
+| Show compact metadata or status label | [Pill](./components/pill.md) | Selection Pill for non-interactive labels |
+| Toggle a binary setting | [Toggles](./components/toggles.md) | Radio or Selection Pill |
+| Show overflow in a constrained region | [Scrollbar](./components/scrollbar.md) | Decorative rails without real overflow |
+| Choose compact visible filter/segment options | [Selection Pill](./components/selection-pill.md) | Pill for static labels |
 | Pick from 2–5 mutually exclusive options | [Checkbox & Radio](./components/checkbox-radio.md) → Radio | Dropdown unless space is constrained |
 | Pick multiple visible options | [Checkbox & Radio](./components/checkbox-radio.md) → Checkbox | Radio |
 | Expose compact options/actions | [Dropdowns](./components/dropdowns.md) | Tabs for actions |
@@ -37,9 +44,12 @@ Global rules for agents using the UnifyApps component documentation to design or
 | Show indeterminate async progress | [Loading Indicator](./components/loading-indicator.md) | Progress Steps |
 | Show sequential workflow progress | [Progress Steps + Timeline](./application-components/progress-steps-timeline.md) | Tabs |
 | Switch parallel content views | [Tabs](./components/tabs.md) | Progress Steps |
+| Pick one date or a date range | [Date Pickers](./application-components/date-pickers.md) | Plain input without calendar behavior |
 | Place page/card/builder titles and actions | [Headers](./application-components/headers.md) | Inline text-only headers for major scopes |
+| Show conversational or threaded communication | [Messaging](./application-components/messaging.md) | Alert or Timeline |
 | Anchor form/modal/panel actions | [Section Footers](./application-components/section-footers.md) | Inline buttons when content scrolls |
 | Focus a blocking task | [Modals](./application-components/modals.md) | Navigation to a new page for quick decisions |
+| Show contextual details or editing without leaving the page | [Side Panel](./application-components/side-panel.md) | Modal for blocking tasks |
 | Move across product areas/settings | [Navigation](./application-components/navigation.md) | Tabs for global destinations |
 | Show structured records | [Tables](./application-components/tables.md) | Cards for dense comparable data |
 | Upload/import files | [File Upload](./application-components/file-upload.md) | Plain input when file validation/progress matters |

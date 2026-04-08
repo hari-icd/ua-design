@@ -1,11 +1,11 @@
 ---
 component: Code Snippet
 category: components
-figma_page: 21:17585
-figma_file: UglTWbSMldmsVjwl9nZbo6
-figma_node_id: 45:35728
-figma_in_page_doc_url: "https://www.figma.com/design/UglTWbSMldmsVjwl9nZbo6/ICD-Test-DS?node-id=45-35724"
-figma_in_page_doc_node_id: "45:35724"
+figma_page: 1221:106300
+figma_file: JkJ2dva8GS70ka8dQOlnML
+figma_node_id: 58150:73285
+figma_in_page_doc_url: "https://www.figma.com/design/JkJ2dva8GS70ka8dQOlnML/ICD-Test-DS?node-id=58150-73281"
+figma_in_page_doc_node_id: "58150:73281"
 ---
 
 # Code Snippet

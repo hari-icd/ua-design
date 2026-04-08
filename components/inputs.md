@@ -1,11 +1,11 @@
 ---
 component: Inputs
 category: components
-figma_page: 12:23378
-figma_file: UglTWbSMldmsVjwl9nZbo6
-figma_node_id: 55:3332
-figma_in_page_doc_url: "https://www.figma.com/design/UglTWbSMldmsVjwl9nZbo6/ICD-Test-DS?node-id=55-3328"
-figma_in_page_doc_node_id: "55:3328"
+figma_page: 85:1269
+figma_file: JkJ2dva8GS70ka8dQOlnML
+figma_node_id: 58148:80193
+figma_in_page_doc_url: "https://www.figma.com/design/JkJ2dva8GS70ka8dQOlnML/ICD-Test-DS?node-id=58148-80189"
+figma_in_page_doc_node_id: "58148:80189"
 ---
 
 # Inputs

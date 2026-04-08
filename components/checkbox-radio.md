@@ -1,11 +1,11 @@
 ---
 component: Checkbox & Radio
 category: components
-figma_page: 9:14766
-figma_file: UglTWbSMldmsVjwl9nZbo6
-figma_node_id: 47:4103
-figma_in_page_doc_url: "https://www.figma.com/design/UglTWbSMldmsVjwl9nZbo6/ICD-Test-DS?node-id=47-4099"
-figma_in_page_doc_node_id: "47:4099"
+figma_page: 1097:63638
+figma_file: JkJ2dva8GS70ka8dQOlnML
+figma_node_id: 58136:6369
+figma_in_page_doc_url: "https://www.figma.com/design/JkJ2dva8GS70ka8dQOlnML/ICD-Test-DS?node-id=58136-6365"
+figma_in_page_doc_node_id: "58136:6365"
 ---
 
 # Checkbox & Radio

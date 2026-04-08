@@ -2,7 +2,7 @@
 
 Component rules, anatomy, and usage guidelines for LLMs working with the design system.
 
-**Figma file**: `UglTWbSMldmsVjwl9nZbo6` (`ICD-Test-DS`)
+**Figma file**: `JkJ2dva8GS70ka8dQOlnML` (`ICD-Test-DS`)
 **Figma docs page**: in-page docs on each component page (node IDs in each file's frontmatter)
 **Agent guide**: [agent-rules.md](./agent-rules.md)
 
@@ -24,12 +24,12 @@ Read these before individual component docs when generating new experiences:
 
 ## Repository Layout
 
-| Folder | Contents |
-|--------|----------|
-| [components/](./components/README.md) | Core reusable component docs and primitives |
-| [application-components/](./application-components/README.md) | Larger product/application component docs |
-| [indexes/](./indexes/component-map.md) | Compiled lookup maps for agents |
-| [patterns/](./patterns/form-page.md) | Reusable experience recipes |
+| Folder                                                        | Contents                                    |
+| ------------------------------------------------------------- | ------------------------------------------- |
+| [components/](./components/README.md)                         | Core reusable component docs and primitives |
+| [application-components/](./application-components/README.md) | Larger product/application component docs   |
+| [indexes/](./indexes/component-map.md)                        | Compiled lookup maps for agents             |
+| [patterns/](./patterns/form-page.md)                          | Reusable experience recipes                 |
 
 ## Components
 
@@ -39,19 +39,29 @@ Read these before individual component docs when generating new experiences:
 | Avatars | [avatar.md](./components/avatar.md) | components | done |
 | Breadcrumbs | [breadcrumbs.md](./components/breadcrumbs.md) | components | done |
 | Buttons | [button.md](./components/button.md) | components | done |
+| Button+Toggle Groups | [button-toggle-groups.md](./components/button-toggle-groups.md) | components | done |
 | Checkbox & Radio | [checkbox-radio.md](./components/checkbox-radio.md) | components | done |
 | Code Snippet | [code-snippet.md](./components/code-snippet.md) | components | done |
 | Dropdowns | [dropdowns.md](./components/dropdowns.md) | components | done |
+| List Item Cards | [list-item-cards.md](./components/list-item-cards.md) | components | done |
 | File Upload | [file-upload.md](./application-components/file-upload.md) | application-components | done |
 | Headers | [headers.md](./application-components/headers.md) | application-components | done |
 | Inputs | [inputs.md](./components/inputs.md) | components | done |
 | Loading Indicator | [loading-indicator.md](./components/loading-indicator.md) | components | done |
+| Pill | [pill.md](./components/pill.md) | components | done |
+| Scrollbar | [scrollbar.md](./components/scrollbar.md) | components | done |
+| Selection Pill | [selection-pill.md](./components/selection-pill.md) | components | done |
+| Sliders | [sliders.md](./components/sliders.md) | components | done |
+| Date Pickers | [date-pickers.md](./application-components/date-pickers.md) | application-components | done |
+| Messaging | [messaging.md](./application-components/messaging.md) | application-components | done |
 | Modals | [modals.md](./application-components/modals.md) | application-components | done |
 | Navigation | [navigation.md](./application-components/navigation.md) | application-components | done |
 | Progress Steps + Timeline | [progress-steps-timeline.md](./application-components/progress-steps-timeline.md) | application-components | done |
 | Section Footers | [section-footers.md](./application-components/section-footers.md) | application-components | done |
+| Side Panel | [side-panel.md](./application-components/side-panel.md) | application-components | done |
 | Tables | [tables.md](./application-components/tables.md) | application-components | done |
 | Tabs | [tabs.md](./components/tabs.md) | components | done |
+| Toggles | [toggles.md](./components/toggles.md) | components | done |
 
 ---
 

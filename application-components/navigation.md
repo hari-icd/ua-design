@@ -1,11 +1,11 @@
 ---
 component: Navigation
 category: application-components
-figma_page: 18:50064
-figma_file: UglTWbSMldmsVjwl9nZbo6
-figma_node_id: 55:19534
-figma_in_page_doc_url: "https://www.figma.com/design/UglTWbSMldmsVjwl9nZbo6/ICD-Test-DS?node-id=55-19530"
-figma_in_page_doc_node_id: "55:19530"
+figma_page: 82:1862
+figma_file: JkJ2dva8GS70ka8dQOlnML
+figma_node_id: 58153:33921
+figma_in_page_doc_url: "https://www.figma.com/design/JkJ2dva8GS70ka8dQOlnML/ICD-Test-DS?node-id=58153-33917"
+figma_in_page_doc_node_id: "58153:33917"
 ---
 
 # Navigation
